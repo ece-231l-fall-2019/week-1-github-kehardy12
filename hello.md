@@ -1,4 +1,5 @@
-__Hello Class Introduction__My name is **Kevin Hardy** and I am a *Computer Engineer major* :computer: I do have my associates in Liberal 
+__Hello Class Introduction__
+My name is **Kevin Hardy** and I am a *Computer Engineer major* :computer: I do have my associates in Liberal 
 arts. I also work at Walmart Distribution Center as fork lift driver. I am from a small town called Navajo, New Mexico
 __here is a picture of my family and I__
 [picutre of my family and me](C:\Users\kevin\OneDrive\Desktop)
