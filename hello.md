@@ -5,7 +5,7 @@
 
 __here is a picture of my family and I__
 
-[picutre of my family and me](myfamily.jpg)
+![picutre of my family and me](myfamily.jpg)
 
 # What I want to take from this class?
 ### As a computer engineer I enjoy working with computers rather it is repairing hardware and writing a software. By taking this class I 
